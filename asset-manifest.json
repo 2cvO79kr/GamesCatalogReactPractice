@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/GamesCatalogReactPractice/static/css/main.1a76fbce.chunk.css",
-    "main.js": "/GamesCatalogReactPractice/static/js/main.b8c5c83d.chunk.js",
-    "main.js.map": "/GamesCatalogReactPractice/static/js/main.b8c5c83d.chunk.js.map",
+    "main.css": "/GamesCatalogReactPractice/static/css/main.c6e1322a.chunk.css",
+    "main.js": "/GamesCatalogReactPractice/static/js/main.c353b443.chunk.js",
+    "main.js.map": "/GamesCatalogReactPractice/static/js/main.c353b443.chunk.js.map",
     "runtime-main.js": "/GamesCatalogReactPractice/static/js/runtime-main.9287a3c2.js",
     "runtime-main.js.map": "/GamesCatalogReactPractice/static/js/runtime-main.9287a3c2.js.map",
     "static/js/2.6962ea3e.chunk.js": "/GamesCatalogReactPractice/static/js/2.6962ea3e.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.be95ceb8.chunk.js": "/GamesCatalogReactPractice/static/js/3.be95ceb8.chunk.js",
     "static/js/3.be95ceb8.chunk.js.map": "/GamesCatalogReactPractice/static/js/3.be95ceb8.chunk.js.map",
     "index.html": "/GamesCatalogReactPractice/index.html",
-    "static/css/main.1a76fbce.chunk.css.map": "/GamesCatalogReactPractice/static/css/main.1a76fbce.chunk.css.map",
+    "static/css/main.c6e1322a.chunk.css.map": "/GamesCatalogReactPractice/static/css/main.c6e1322a.chunk.css.map",
     "static/js/2.6962ea3e.chunk.js.LICENSE.txt": "/GamesCatalogReactPractice/static/js/2.6962ea3e.chunk.js.LICENSE.txt",
     "static/media/3x.278338e5.gif": "/GamesCatalogReactPractice/static/media/3x.278338e5.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.9287a3c2.js",
     "static/js/2.6962ea3e.chunk.js",
-    "static/css/main.1a76fbce.chunk.css",
-    "static/js/main.b8c5c83d.chunk.js"
+    "static/css/main.c6e1322a.chunk.css",
+    "static/js/main.c353b443.chunk.js"
   ]
 }
