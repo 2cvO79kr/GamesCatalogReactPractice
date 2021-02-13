@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/GamesCatalogReactPractice/static/css/main.bb05d73c.chunk.css",
-    "main.js": "/GamesCatalogReactPractice/static/js/main.398b1f70.chunk.js",
-    "main.js.map": "/GamesCatalogReactPractice/static/js/main.398b1f70.chunk.js.map",
-    "runtime-main.js": "/GamesCatalogReactPractice/static/js/runtime-main.9178db4d.js",
-    "runtime-main.js.map": "/GamesCatalogReactPractice/static/js/runtime-main.9178db4d.js.map",
-    "static/js/2.e9bd0e54.chunk.js": "/GamesCatalogReactPractice/static/js/2.e9bd0e54.chunk.js",
-    "static/js/2.e9bd0e54.chunk.js.map": "/GamesCatalogReactPractice/static/js/2.e9bd0e54.chunk.js.map",
-    "static/js/3.8229b1ce.chunk.js": "/GamesCatalogReactPractice/static/js/3.8229b1ce.chunk.js",
-    "static/js/3.8229b1ce.chunk.js.map": "/GamesCatalogReactPractice/static/js/3.8229b1ce.chunk.js.map",
+    "main.css": "/GamesCatalogReactPractice/static/css/main.3c8e4ff4.chunk.css",
+    "main.js": "/GamesCatalogReactPractice/static/js/main.c4999681.chunk.js",
+    "main.js.map": "/GamesCatalogReactPractice/static/js/main.c4999681.chunk.js.map",
+    "runtime-main.js": "/GamesCatalogReactPractice/static/js/runtime-main.e7d069a7.js",
+    "runtime-main.js.map": "/GamesCatalogReactPractice/static/js/runtime-main.e7d069a7.js.map",
+    "static/js/2.1d4bcf44.chunk.js": "/GamesCatalogReactPractice/static/js/2.1d4bcf44.chunk.js",
+    "static/js/2.1d4bcf44.chunk.js.map": "/GamesCatalogReactPractice/static/js/2.1d4bcf44.chunk.js.map",
+    "static/js/3.33af0e84.chunk.js": "/GamesCatalogReactPractice/static/js/3.33af0e84.chunk.js",
+    "static/js/3.33af0e84.chunk.js.map": "/GamesCatalogReactPractice/static/js/3.33af0e84.chunk.js.map",
     "index.html": "/GamesCatalogReactPractice/index.html",
-    "static/css/main.bb05d73c.chunk.css.map": "/GamesCatalogReactPractice/static/css/main.bb05d73c.chunk.css.map",
-    "static/js/2.e9bd0e54.chunk.js.LICENSE.txt": "/GamesCatalogReactPractice/static/js/2.e9bd0e54.chunk.js.LICENSE.txt",
+    "static/css/main.3c8e4ff4.chunk.css.map": "/GamesCatalogReactPractice/static/css/main.3c8e4ff4.chunk.css.map",
+    "static/js/2.1d4bcf44.chunk.js.LICENSE.txt": "/GamesCatalogReactPractice/static/js/2.1d4bcf44.chunk.js.LICENSE.txt",
     "static/media/3x.278338e5.gif": "/GamesCatalogReactPractice/static/media/3x.278338e5.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.9178db4d.js",
-    "static/js/2.e9bd0e54.chunk.js",
-    "static/css/main.bb05d73c.chunk.css",
-    "static/js/main.398b1f70.chunk.js"
+    "static/js/runtime-main.e7d069a7.js",
+    "static/js/2.1d4bcf44.chunk.js",
+    "static/css/main.3c8e4ff4.chunk.css",
+    "static/js/main.c4999681.chunk.js"
   ]
 }
